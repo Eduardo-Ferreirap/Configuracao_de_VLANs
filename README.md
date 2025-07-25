@@ -1,4 +1,4 @@
-# 🧷 Projeto de Configuração de VLANs com Cisco Packet Tracer
+# Projeto de Configuração de VLANs com Cisco Packet Tracer
 
 > **Autor:** Eduardo Ferreira de Paula  
 > 📧 ferreira.eduardop30@gmail.com  
@@ -53,15 +53,7 @@ A rede segue um modelo simples de campus com os seguintes elementos:
 ### 🚫 Isolamento entre VLANs diferentes
 ✅ Comunicação **bloqueada** entre dispositivos de VLANs distintas, validando o isolamento esperado com switches L2 (sem roteamento inter-VLAN).
 
-## 📷 Imagens & Resultados
 
-(Insira aqui prints dos testes de ping, show vlan brief, show interfaces trunk, etc., se disponíveis.)
 
-## 💡 Conclusão
-
-Este projeto demonstrou com sucesso como configurar VLANs em um ambiente de simulação utilizando o Cisco Packet Tracer. Foram aplicados conceitos de segmentação lógica, segurança de rede e isolamento de tráfego em uma rede simples, porém funcional. Ideal para estudos práticos de redes em nível fundamental e técnico.
-
----
-
-**🗓️ São Paulo - SP, Julho de 2025**
-
+# OBSERVAÇÃO
+Documentação e arquivo .pkt estão disponíveis para Download neste repositório
